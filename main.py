@@ -36,7 +36,7 @@ def create_playlist_from_profile(profile_url, playlist_name):
     print(f"Found {len(song_ids)} songs. Creating playlist...")
 
     # Initialize YTMusic with authentication
-    ytmusic = YTMusic('C:\\Users\\Mihir\\Desktop\\ytpl\\headers_auth.json')
+    ytmusic = YTMusic('headers_auth.json')
 
     # Create a new playlist
     playlist_id = ytmusic.create_playlist(
