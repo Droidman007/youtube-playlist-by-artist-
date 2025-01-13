@@ -1,0 +1,11 @@
+{
+    "Authorization": "\"<Authorization_Placeholder>\"",
+    "User-Agent": "\"<User_Agent_Placeholder>\"",
+    "X-Goog-AuthUser": "\"<X_Goog_AuthUser_Placeholder>\"",
+    "X-Goog-Visitor-ID": "\"<X_Goog_Visitor_ID_Placeholder>\"",
+    "X-Origin": "\"<X_Origin_Placeholder>\"",
+    "X-Youtube-Bootstrap-Logged-In": "\"<X_Youtube_Bootstrap_Logged_In_Placeholder>\"",
+    "X-Youtube-Client-Name": "\"<X_Youtube_Client_Name_Placeholder>\"",
+    "X-Youtube-Client-Version": "\"<X_Youtube_Client_Version_Placeholder>\"",
+    "cookie": "\"<Cookie_Placeholder>\""
+}
